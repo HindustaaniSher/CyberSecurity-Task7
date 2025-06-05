@@ -1,4 +1,4 @@
-# Task 7 – Browser Extension Analysis
+# CyberSecurity Task 7 – Browser Extension Analysis
 
 ## Objective:
 To analyze browser extensions (add-ons) and review their permissions to assess potential privacy and security implications.
